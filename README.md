@@ -1,7 +1,9 @@
 # Speech-to-Text Dataset Pipeline
 
 This repository has a pipeline for curating a Speech-to-Text dataset from NPTEL Deep Learning lectures.
+
 The link to NPTEL Deep Learning course is https://nptel.ac.in/courses/106106184
+
 The videos and transcripts are downloaded from website using Selenium for web scraping. They are processed further to make a Speech to Text dataset in jsonl format.
 
 ## Setup Instructions
